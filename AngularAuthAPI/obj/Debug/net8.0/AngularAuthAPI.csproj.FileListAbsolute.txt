@@ -141,3 +141,4 @@ D:\Project\authLetsProgram\AngularAuthAPI\AngularAuthAPI\obj\Debug\net8.0\refint
 D:\Project\authLetsProgram\AngularAuthAPI\AngularAuthAPI\obj\Debug\net8.0\AngularAuthAPI.pdb
 D:\Project\authLetsProgram\AngularAuthAPI\AngularAuthAPI\obj\Debug\net8.0\AngularAuthAPI.genruntimeconfig.cache
 D:\Project\authLetsProgram\AngularAuthAPI\AngularAuthAPI\obj\Debug\net8.0\ref\AngularAuthAPI.dll
+D:\Project\authLetsProgram\AngularAuthAPI\AngularAuthAPI\obj\Debug\net8.0\AngularAuthAPI.sourcelink.json
